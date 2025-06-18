@@ -37,64 +37,46 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <h3>Front-End:</h3>
-<ul>
-  <li>
-    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  </li>
-  <li>
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-  </li>
-  <li>
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  </li>
-  <li>
-    ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-  </li>
-  <li>
-    ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-  </li>
-  <li>
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  </li>
-  <li>
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  </li>
-  <li>
-    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  </li>
-</ul>
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)<br>
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)<br>
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)<br>
 
 <h3>Back-End </h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)<br>
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)<br>
 
 <h3>Banco de Dados </h3>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3>APIs </h3>
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)<br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)<br>
 
 <h3>Versionamento de Código </h3>
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)<br>
 
 <h3>IDEs </h3>
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)<br>
 ###
 
 ### **Experiência Profissional**
-🚀 2024/11 a 2025/02 - Grupo de Moda Soma - Front-End + VTex FastStore + VTex IO + VTex Legacy - Ongoing de Lojas E-Commerce da Holding
-🚀 2024/06 a 2025/01 - App Trade - Front-End - Desenvolvimento de Sistema de Recomendação para E-Commerces VTex
-🚀 2023/09 a 2024/05 - Pavilhão do Atacado - Front-End + VTex IO - Implantação e Ongoing da Loja E-commerce da Empresa
-🚀 2022/01 a 2022/09 - Maeztra - Front-End + VTex IO + VTex Legacy - Implementação e Ongoing de Lojas E-Commerce Atendidas pela Agência
-🚀 2021/09 a 2021/12 - CoreBiz - Front-End + VTex Legacy - Ongoing de Lojas E-Commerce Atendidas pela Agência
-🚀 2020/10 a 2021/09 - Synapcom - Front-End + VTex Legacy - Ongoing de Lojas E-Commerce Atendidas pela Agência
-🚀 2015/06 a 2019/09 - S2 Holding - Front-End + VTex Legacy - Implementação e Ongoing de Lojas E-Commerce da Holding
-🚀 2010/09 a 2014/12 - B2W Inc - Webdesigner + Front-End - Ongoing de Lojas E-Commerce da Holding
+🚀 2024/11 a 2025/02 - Grupo de Moda Soma - Front-End + VTex FastStore + VTex IO + VTex Legacy - Ongoing de Lojas E-Commerce da Holding<br>
+🚀 2024/06 a 2025/01 - App Trade - Front-End - Desenvolvimento de Sistema de Recomendação para E-Commerces VTex<br>
+🚀 2023/09 a 2024/05 - Pavilhão do Atacado - Front-End + VTex IO - Implantação e Ongoing da Loja E-commerce da Empresa<br>
+🚀 2022/01 a 2022/09 - Maeztra - Front-End + VTex IO + VTex Legacy - Implementação e Ongoing de Lojas E-Commerce Atendidas pela Agência<br>
+🚀 2021/09 a 2021/12 - CoreBiz - Front-End + VTex Legacy - Ongoing de Lojas E-Commerce Atendidas pela Agência<br>
+🚀 2020/10 a 2021/09 - Synapcom - Front-End + VTex Legacy - Ongoing de Lojas E-Commerce Atendidas pela Agência<br>
+🚀 2015/06 a 2019/09 - S2 Holding - Front-End + VTex Legacy - Implementação e Ongoing de Lojas E-Commerce da Holding<br>
+🚀 2010/09 a 2014/12 - B2W Inc - Webdesigner + Front-End - Ongoing de Lojas E-Commerce da Holding<br>
 
 ### **Projetos em Destaque - Implantação e Ongoing**
 📌 [![2024 - Front-End + VTex IO | Pavilhão do Atacado](https://www.pavilhaodoatacado.com.br/)]

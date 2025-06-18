@@ -66,7 +66,7 @@
 <h3>IDEs </h3>
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)<br>
-###
+
 
 <h2> 🛠 &nbsp;**Experiência Profissional</h2>
 🚀 2024/11 a 2025/02 - Grupo de Moda Soma - Front-End + VTex FastStore + VTex IO + VTex Legacy - Ongoing de Lojas E-Commerce da Holding<br>

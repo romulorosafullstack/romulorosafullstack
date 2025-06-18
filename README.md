@@ -68,7 +68,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)<br>
 ###
 
-### **Experiência Profissional**
+<h2> 🛠 &nbsp;**Experiência Profissional</h2>
 🚀 2024/11 a 2025/02 - Grupo de Moda Soma - Front-End + VTex FastStore + VTex IO + VTex Legacy - Ongoing de Lojas E-Commerce da Holding<br>
 🚀 2024/06 a 2025/01 - App Trade - Front-End - Desenvolvimento de Sistema de Recomendação para E-Commerces VTex<br>
 🚀 2023/09 a 2024/05 - Pavilhão do Atacado - Front-End + VTex IO - Implantação e Ongoing da Loja E-commerce da Empresa<br>

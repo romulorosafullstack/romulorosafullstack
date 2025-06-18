@@ -19,7 +19,16 @@
 
 ###
 
-<p align="left">EXPERIÊNCIA: Desenvolvimento Web voltado a Lojas nas Plataformas de E-Commerce VTex FastStore, VTex IO e VTex CMS.<br>Vasta experiência junto aos segmentos de varejo, moda/vestuário e agências digitais, atendendo clientes de todos os portes nacionais e LATAM. Go live, desenvolvimento de novas stacks, on going e correção de bugs no Front-End e em Lojas VTex.</p>
+<p align="left">EXPERIÊNCIA PROFISSIONAL: <br>Desenvolvimento Web voltado a Lojas nas Plataformas de E-Commerce VTex FastStore, VTex IO e VTex CMS.<br>Vasta experiência junto aos segmentos de varejo, moda/vestuário e agências digitais, atendendo clientes de todos os portes nacionais e LATAM. Go live, desenvolvimento de novas stacks, on going e correção de bugs no Front-End e em Lojas VTex.</p>
+
+🚀 2024/11 a 2025/02 - Grupo de Moda Soma - Front-End + VTex FastStore + VTex IO + VTex Legacy - Ongoing de Lojas E-Commerce da Holding<br>
+🚀 2024/06 a 2025/01 - App Trade - Front-End - Desenvolvimento de Sistema de Recomendação para E-Commerces VTex<br>
+🚀 2023/09 a 2024/05 - Pavilhão do Atacado - Front-End + VTex IO - Implantação e Ongoing da Loja E-commerce da Empresa<br>
+🚀 2022/01 a 2022/09 - Maeztra - Front-End + VTex IO + VTex Legacy - Implementação e Ongoing de Lojas E-Commerce Atendidas pela Agência<br>
+🚀 2021/09 a 2021/12 - CoreBiz - Front-End + VTex Legacy - Ongoing de Lojas E-Commerce Atendidas pela Agência<br>
+🚀 2020/10 a 2021/09 - Synapcom - Front-End + VTex Legacy - Ongoing de Lojas E-Commerce Atendidas pela Agência<br>
+🚀 2015/06 a 2019/09 - S2 Holding - Front-End + VTex Legacy - Implementação e Ongoing de Lojas E-Commerce da Holding<br>
+🚀 2010/09 a 2014/12 - B2W Inc - Webdesigner + Front-End - Ongoing de Lojas E-Commerce da Holding<br>
 
 ###
 
@@ -28,14 +37,32 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <h3>Front-End:</h3>
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+<ul>
+  <li>
+    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  </li>
+  <li>
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+  </li>
+  <li>
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  </li>
+  <li>
+    ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+  </li>
+  <li>
+    ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+  </li>
+  <li>
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  </li>
+  <li>
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  </li>
+  <li>
+    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  </li>
+</ul>
 
 <h3>Back-End </h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
